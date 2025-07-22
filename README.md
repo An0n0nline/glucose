@@ -22,17 +22,6 @@ Range (mg/dL)	Classification	Color
 181-250	High (Hyperglycemia)	Red
 >250	Extremely High	Purple
 
-🚀 Installation & Usage
-
-Clone the repository:
-git clone https://github.com/yourusername/glucose-analyzer.git
-cd glucose-analyzer
-
-Make the script executable:
-chmod +x glucose_check.sh
-Run the script:
-./glucose_check.sh
-
 🖼️ Example Output
 Enter your glucose reading (mg/dL): 185
 
